@@ -61,48 +61,48 @@ Roser, M.(2023).About.Our World In Data, a project of Global Change Data Lab.
 |gas_prod_change_twh      | Annual change in gas production, measured in terawatt-hours |
 |oil_prod_change_pct      | Annual percentage change in oil production |
 |oil_prod_change_twh      | Annual change in oil production, measured in terawatt-hours |
-|energy_cons_change_pct |	Annual percentage change in primary energy consumption
-|energy_cons_change_twh |	Annual change in primary energy consumption, measured in terawatt-hours
-|biofuel_share_elec 	|    Share of electricity consumption that comes from biofuels
-|biofuel_cons_change_pct| 	Annual percentage change in biofuel consumption
-|biofuel_share_energy 	|    Share of primary energy consumption that comes from biofuels
-|biofuel_cons_change_twh| 	Annual change in biofuel consumption, measured in terawatt-hours
-|biofuel_consumption 	|    Primary energy consumption from biofuels, measured in terawatt-hours
-|biofuel_elec_per_capita| 	Per capita electricity consumption from biofuels, measured in kilowatt-hours
-|biofuel_cons_per_capita| 	Per capita primary energy consumption from biofuels, measured in kilowatt-hours
-|carbon_intensity_elec 	|    Carbon intensity of electricity production, measured in grams of carbon dioxide emitted per kilowatt-hour
-|coal_share_elec 	    |    Share of electricity consumption that comes from coal
-|coal_cons_change_pct 	|    Annual percentage change in coal consumption
-|coal_share_energy 	    |    Share of primary energy consumption that comes from coal
-|coal_cons_change_twh 	|    Annual change in coal consumption, measured in terawatt-hours
-|coal_consumption 	    |    Primary energy consumption from coal, measured in terawatt-hours
-|coal_elec_per_capita 	|    Per capita electricity consumption from coal, measured in kilowatt-hours
-|coal_cons_per_capita 	|    Per capita primary energy consumption from coal, measured in kilowatt-hours
+|energy_cons_change_pct   |	Annual percentage change in primary energy consumption |
+|energy_cons_change_twh   |	Annual change in primary energy consumption, measured in terawatt-hours |
+|biofuel_share_elec 	    |    Share of electricity consumption that comes from biofuels |
+|biofuel_cons_change_pct    | 	Annual percentage change in biofuel consumption |
+|biofuel_share_energy 	    |    Share of primary energy consumption that comes from biofuels |
+|biofuel_cons_change_twh    | 	Annual change in biofuel consumption, measured in terawatt-hours |
+|biofuel_consumption 	    |    Primary energy consumption from biofuels, measured in terawatt-hours |
+|biofuel_elec_per_capita    | 	Per capita electricity consumption from biofuels, measured in kilowatt-hours |
+|biofuel_cons_per_capita    | 	Per capita primary energy consumption from biofuels, measured in kilowatt-hours |
+|carbon_intensity_elec 	    |    Carbon intensity of electricity production, measured in grams of carbon dioxide emitted per kilowatt-hour |
+|coal_share_elec 	        |    Share of electricity consumption that comes from coal|
+|coal_cons_change_pct 	|  Annual percentage change in coal consumption |
+|coal_share_energy 	    |    Share of primary energy consumption that comes from coal |
+|coal_cons_change_twh 	|    Annual change in coal consumption, measured in terawatt-hours |
+|coal_consumption 	    |    Primary energy consumption from coal, measured in terawatt-hours|
+|coal_elec_per_capita 	|    Per capita electricity consumption from coal, measured in kilowatt-hours |
+|coal_cons_per_capita 	|    Per capita primary energy consumption from coal, measured in kilowatt-hours|
 |coal_production 	    |    Coal production, measured in terawatt-hours
 |coal_prod_per_capita 	|    Per capita coal production, measured in kilowatt-hours
 |electricity_generation |	Electricity generation, measured in terawatt-hours
 |biofuel_electricity 	|    Electricity generation from biofuels, measured in terawatt-hours
 |coal_electricity 	    |    Electricity generation from coal, measured in terawatt-hours
-|fossil_electricity 	||    Electricity generation from fossil fuels, measured in terawatt-hours. This is the sum of electricity genera|tion from coal, oil and gas.
-|gas_electricity 	    ||    Electricity generation from gas, measured in terawatt-hours|
-|hydro_electricity 	    ||    Electricity generation from hydropower, measured in terawatt-hours|
-|nuclear_electricity 	||Electricity generation from nuclear power, measured in terawatt-hours|
-|oil_electricity 	Elect|ricity generation from oil, measured in terawatt-hours|
-|other_renewable_electric|ity 	Electricity generation from other renewable sources, measured in terawatt-hours|
-|other_renewable_exc_biof|uel_electricity 	Electricity generation from other renewable sources excluding biofuels, measured in ter|awatt|-hours
-|renewables_electricity |	Electricity generation from renewables, measured in terawatt-hours|
-|solar_electricity 	Elect|ricity generation from solar, measured in terawatt-hours|
-|wind_electricity 	Elect|ricity generation from wind, measured in terawatt-hours|
-|energy_per_gdp 	Energ|y consumption per unit of GDP. This is measured in kilowatt-hours per 2011 international-$.|
-|energy_per_capita 	Prima|ry energy consumption per capita, measured in kilowatt-hours per year|
-|fossil_cons_change_pct |	Annual percentage change in fossil fuel consumption|
-|fossil_share_energy 	S|hare of primary energy consumption that comes from fossil fuels|
-|fossil_cons_change_twh |	Annual change in fossil fuel consumption, measured in terawatt-hours|
-|fossil_fuel_consumption |	Fossil fuel consumption, measured in terawatt-hours. This is the sum of primary energy from coal,| oil a|nd| ga|s.
-|fossil_energy_per_capita| 	Per capita fossil fuel consumption, measured in kilowatt-hours. This is the sum of primary energy| from |co|al,| oil and gas.
-|fossil_cons_per_capita |	Per capita fossil fuel consumption, measured in kilowatt-hours. This is the sum of primary energy| from |co|al,| oil and gas.
-|fossil_share_elec 	Share| of electricity consumption that comes from fossil fuels (coal, oil and gas combined)|
-|gas_share_elec 	Share| of electricity consumption that comes from gas|
+|fossil_electricity 	|  Electricity generation from fossil fuels, measured in terawatt-hours. This is the sum of electricity generation from coal, oil and gas.|
+|gas_electricity 	    |    Electricity generation from gas, measured in terawatt-hours|
+|hydro_electricity 	    |    Electricity generation from hydropower, measured in terawatt-hours|
+|nuclear_electricity 	|Electricity generation from nuclear power, measured in terawatt-hours|
+|oil_electricity 	            |Electricity generation from oil, measured in terawatt-hours|
+|other_renewable_electricity    |Electricity generation from other renewable sources, measured in terawatt-hours|
+|other_renewable_exc_biofuel_electricity | Electricity generation from other renewable sources excluding biofuels, measured in terawatt-hours|
+|renewables_electricity     |	Electricity generation from renewables, measured in terawatt-hours|
+|solar_electricity 	        |Electricity generation from solar, measured in terawatt-hours|
+|wind_electricity 	        |Electricity generation from wind, measured in terawatt-hours|
+|energy_per_gdp 	        |Energy consumption per unit of GDP. This is measured in kilowatt-hours per 2011 international-$.|
+|energy_per_capita 	        |Primary energy consumption per capita, measured in kilowatt-hours per year|
+|fossil_cons_change_pct     |Annual percentage change in fossil fuel consumption|
+|fossil_share_energy 	    |Share of primary energy consumption that comes from fossil fuels|
+|fossil_cons_change_twh     |Annual change in fossil fuel consumption, measured in terawatt-hours|
+|fossil_fuel_consumption    |Fossil fuel consumption, measured in terawatt-hours. This is the sum of primary energy from coal, oil and gas.|
+|fossil_energy_per_capita| 	Per capita fossil fuel consumption, measured in kilowatt-hours. This is the sum of primary energy from coal, oil and gas.|
+|fossil_cons_per_capita |	Per capita fossil fuel consumption, measured in kilowatt-hours. This is the sum of primary energy from coal, oil and gas.
+|fossil_share_elec 	        |Share of electricity consumption that comes from fossil fuels (coal, oil and gas combined)|
+|gas_share_elec 	         |Share of electricity consumption that comes from gas|
 |gas_cons_change_pct 	A|nnual percentage change in gas consumption|
 |gas_share_energy 	Share| of primary energy consumption that comes from gas|
 |gas_cons_change_twh 	A|nnual change in gas consumption, measured in terawatt-hours|
